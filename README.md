@@ -3,17 +3,17 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush5601&label=Profile%20views&color=0e75b6&style=flat" alt="ayush5601" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush5601&label=Profile%20views&color=0e75b6&style=flat" alt="ayush5601" /> </p> -->
 
-- 🔭 I’m currently working on **building full stack projects**
+- 🔭 I’m currently working on **building full stack projects as a Senior Software Engineer**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ayush-agrawal.netlify.app/](https://portfolio-ayush-agrawal.netlify.app/)
 
-- 💬 Ask me about **React, JS, Java, Spring Boot**
-
-- 📫 How to reach me **ayush123ngp@gmail.com**
+- 💬 Ask me about **React, NodeJS, JS, Java, Spring Boot**
 
 - ⚡ Fun fact **Debugging is like being the detective in a crime movie where you’re also the murderer.**
+
+- 📫 How to reach me **ayush.agrawal220500@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
