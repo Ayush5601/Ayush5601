@@ -5,15 +5,15 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush5601&label=Profile%20views&color=0e75b6&style=flat" alt="ayush5601" /> </p> -->
 
-- 🔭 I’m currently working on **building full stack projects as a Senior Software Engineer**
+- 🔭 I like crafting **Full Stack Projects that make a difference!**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ayush-agrawal.netlify.app/](https://portfolio-ayush-agrawal.netlify.app/)
+- 👨‍💻 Explore my work at My Portfolio and see what I’ve been up to [https://portfolio-ayush-agrawal.netlify.app/](https://portfolio-ayush-agrawal.netlify.app/)
 
-- 💬 Ask me about **React, NodeJS, JS, Java, Spring Boot**
+- 💬 Got questions? Let’s chat about .**React, NodeJS, JavaScript, Java, and Spring Boot**
 
-- ⚡ Fun fact **Debugging is like being the detective in a crime movie where you’re also the murderer.**
+- ⚡ Fun fact **Debugging is like being the detective in a thriller where you’re also the culprit!**
 
-- 📫 How to reach me **ayush.agrawal220500@gmail.com**
+- 📫 Get in touch: Drop me a line at **ayush.agrawal220500@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
