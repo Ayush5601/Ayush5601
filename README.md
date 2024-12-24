@@ -7,9 +7,9 @@
 
 - 🔭 I like crafting **Full Stack Projects that make a difference!**
 
-- 👨‍💻 Explore my work at My Portfolio and see what I’ve been up to [https://portfolio-ayush-agrawal.netlify.app/](https://portfolio-ayush-agrawal.netlify.app/)
+- 👨‍💻 Explore my work at my portfolio and see what I’ve been up to [https://portfolio-ayush-agrawal.netlify.app/](https://portfolio-ayush-agrawal.netlify.app/)
 
-- 💬 Got questions? Let’s chat about .**React, NodeJS, JavaScript, Java, and Spring Boot**
+- 💬 Got questions? Let’s chat about **React, NodeJS, JavaScript, Java, and Spring Boot**
 
 - ⚡ Fun fact **Debugging is like being the detective in a thriller where you’re also the culprit!**
 
